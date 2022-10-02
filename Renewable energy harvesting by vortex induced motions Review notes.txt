@@ -1,0 +1,5 @@
+Different fluid phenomenon like Flutter, Transverse and
+Torsional Galloping, Buffeting, Vortex-Induced Vibration (VIV), and Fluttering-Autorotation are discussed
+
+
+Primary disadvangtage of other energy generation methods is the requirement of high fluid energy such as in hydroelectric power plants. Construction of dam is an expensive process and possess significant safety risk.

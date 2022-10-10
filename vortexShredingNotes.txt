@@ -1,0 +1,5 @@
+Surface roughness can change the cross flow amplitude (VIV amplitude). More roughness decrease the amplitude. It also reduces the drag coefficient. Rib and spines on cactus server the same purpose. 
+This paper has important CFD data about the lock in regions and lower branch/upper branch. 
+Lock in occurs when the vortex shredding frequency (fs) equals the natural frequency (fn). However, in the some case like in water, lock in region can be obtained even if the ratio fs/fn is far from 1. 
+Different response are tabulate for different velocities and changing radii of cylinders.
+There are many parameters of the bionic structure that may affect the VIV responses, including the number of ribs (N), the height ratio (Ks/D) and the shapes of the ribs.

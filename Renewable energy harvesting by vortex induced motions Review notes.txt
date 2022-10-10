@@ -3,3 +3,5 @@ Torsional Galloping, Buffeting, Vortex-Induced Vibration (VIV), and Fluttering-A
 
 
 Primary disadvangtage of other energy generation methods is the requirement of high fluid energy such as in hydroelectric power plants. Construction of dam is an expensive process and possess significant safety risk.
+
+The only stable oscillations that can be used practically for energy generation are VIV and galloping.
